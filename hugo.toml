@@ -1,1 +1,4 @@
+baseURL = 'https://v2kcomputers.github.io/pdf-forms/'
+languageCode = 'en-us'
+title = 'YOJNA PORTAL'
 theme = 'yp-themes'
